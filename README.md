@@ -1,2 +1,1 @@
-# 4-atomico-bot-fork-l5jff2p2
-Example of how to create a small bot with webcomponents
+# https://webcomponents.dev/edit/c0C69TAcVW0RvNGG5k15

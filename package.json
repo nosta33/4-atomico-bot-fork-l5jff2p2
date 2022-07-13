@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/nosta33.4-atomico-bot-fork-l5jff2p2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Me8Ze4loWO17dsfNeit2 --open"
+  }
+}
